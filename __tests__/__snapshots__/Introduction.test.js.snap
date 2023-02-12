@@ -1,0 +1,309 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Introduction /> renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#6495ed",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "position": "absolute",
+        "top": 80,
+        "width": "100%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "backgroundColor": "darkorange",
+          "borderRadius": 8,
+          "color": "white",
+          "fontSize": 20,
+          "fontWeight": "bold",
+          "padding": 8,
+          "textAlign": "center",
+          "width": 250,
+        }
+      }
+    >
+      Word Puzzle
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "justifyContent": "center",
+        "paddingTop": 40,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "white",
+            "borderColor": "white",
+            "borderRadius": 8,
+            "borderWidth": 1,
+            "margin": 20,
+            "padding": 20,
+            "textAlign": "center",
+            "width": 250,
+          },
+          false,
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "purple",
+                "fontSize": 20,
+                "textAlign": "center",
+              },
+              false,
+            ]
+          }
+        >
+          Cities
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "white",
+            "borderColor": "white",
+            "borderRadius": 8,
+            "borderWidth": 1,
+            "margin": 20,
+            "padding": 20,
+            "textAlign": "center",
+            "width": 250,
+          },
+          false,
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "purple",
+                "fontSize": 20,
+                "textAlign": "center",
+              },
+              false,
+            ]
+          }
+        >
+          Foods
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "white",
+            "borderColor": "white",
+            "borderRadius": 8,
+            "borderWidth": 1,
+            "margin": 20,
+            "padding": 20,
+            "textAlign": "center",
+            "width": 250,
+          },
+          false,
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "purple",
+                "fontSize": 20,
+                "textAlign": "center",
+              },
+              false,
+            ]
+          }
+        >
+          Animals
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "green",
+            "borderRadius": 8,
+            "margin": 20,
+            "padding": 20,
+            "width": 250,
+          },
+          Object {
+            "backgroundColor": "grey",
+          },
+        ]
+      }
+    >
+      <View
+        accessibilityState={
+          Object {
+            "disabled": true,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "white",
+              "fontSize": 20,
+              "textAlign": "center",
+            }
+          }
+        >
+          Start
+        </Text>
+      </View>
+    </View>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "alignSelf": "center",
+            "flexDirection": "row",
+            "justifyContent": "center",
+            "marginTop": 30,
+            "padding": 20,
+            "width": 250,
+          }
+        }
+      >
+        <Image
+          source={1}
+          style={
+            Object {
+              "height": 40,
+              "marginRight": 8,
+              "width": 40,
+            }
+          }
+        />
+        <Text
+          style={
+            Object {
+              "color": "orange",
+              "fontSize": 20,
+              "textAlign": "center",
+            }
+          }
+        >
+          Leaders Board
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
