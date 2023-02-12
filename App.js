@@ -1,5 +1,5 @@
 import { StatusBar } from "expo-status-bar";
-import { StyleSheet,  View } from "react-native";
+import { StyleSheet, View } from "react-native";
 import { useSelector, Provider } from "react-redux";
 import { NAVIGATE_PAGE } from "./redux/reducers/pageReducers";
 import Introduction from "./pages/Introduction";
@@ -24,7 +24,12 @@ function App() {
         return <Introduction />;
     }
   };
-  return <View style={styles.container}>{renderPage()} <StatusBar style="auto" /></View>;
+  return (
+    <View style={styles.container}>
+      {renderPage()}
+      <StatusBar style="auto" />
+    </View>
+  );
 }
 
 export default () => (
