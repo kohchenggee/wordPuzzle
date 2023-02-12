@@ -18,7 +18,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cg91koh.wordPuzzle"
     },
     "android": {
       "adaptiveIcon": {
