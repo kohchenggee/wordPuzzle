@@ -82,7 +82,7 @@ const styles = StyleSheet.create({
   },
   titleContainer: {
     position: "absolute",
-    top: 80,
+    top: 60,
     width: "100%",
     alignItems: "center",
   },
@@ -129,7 +129,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
   },
   sectionContainer: {
-    paddingTop: 40,
+    paddingTop: 100,
     flex: 1,
     alignItems: "center",
     justifyContent: "center",

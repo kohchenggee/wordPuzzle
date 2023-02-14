@@ -83,7 +83,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#f5f5dc",
     alignItems: "center",
     justifyContent: "center",
-    paddingBottom: 60,
+    paddingBottom: 80,
   },
   shareButton: {
     backgroundColor: "white",
