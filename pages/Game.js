@@ -230,7 +230,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     backgroundColor: "indigo",
     position: "absolute",
-    bottom: 80,
+    bottom: 40,
     padding: 10,
   },
   skipLabel: {
